@@ -1,0 +1,10 @@
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.Form1.resources
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.Properties.Resources.resources
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.csproj.GenerateResource.cache
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\bin\Debug\IF_Ornek.exe.config
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\bin\Debug\IF_Ornek.exe
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\bin\Debug\IF_Ornek.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.exe
+C:\Users\bbayrakli\Desktop\My_Repo\IF_Ornek\obj\Debug\IF_Ornek.pdb
